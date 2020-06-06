@@ -2,6 +2,9 @@
 using namespace std;
 int main()
     {
-    cout<<"7+5 = "<<7+5;
+    float a,b;
+    cout<<"enter two nos\n";
+    cin>>a>>b;
+    cout<<"a+b= "<<a+b;
     return 0;
     }
